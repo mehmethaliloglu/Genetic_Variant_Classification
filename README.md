@@ -60,6 +60,6 @@ Conflicting classification has been assigned to the CLASS column. It is a binary
 
 |Name     |
 |---------|
-|[Mehmet HALILOGLU](https://github.com/mehmethaliloglu])
-|[Sümeyye ÖZTÜRK](https://github.com/sumeyyeozturkk])
+|[Mehmet HALILOGLU](https://github.com/mehmethaliloglu)
+|[Sümeyye ÖZTÜRK](https://github.com/sumeyyeozturkk)
 |[Mert YILDIRIR](])
