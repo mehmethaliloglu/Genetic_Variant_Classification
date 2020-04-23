@@ -62,4 +62,4 @@ Conflicting classification has been assigned to the CLASS column. It is a binary
 |---------|
 |[Mehmet HALILOGLU](https://github.com/mehmethaliloglu)
 |[Sümeyye ÖZTÜRK](https://github.com/sumeyyeozturkk)
-|[Mert YILDIRIR](])
+|[Mert YILDIRIR](https://github.com/mertyldrr)
