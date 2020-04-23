@@ -1,5 +1,5 @@
 # Genetic Variant Classification
-This project is a Binary Classification project carried out in Applied Data Science Bootcamp on Kodluyoruz, which is realized under the trainings of Çağlar Subaşı, using the Genetic Variant Classification dataset in Kaggle.
+This project is a Binary Classification project carried out in Applied Data Science Bootcamp on Kodluyoruz, which is realized under the trainings of Caglar Subasi, using the Genetic Variant Classification dataset in Kaggle.
 
 Dataset --> (https://www.kaggle.com/kevinarvai/clinvar-conflicting)
 
